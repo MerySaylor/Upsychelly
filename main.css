@@ -38,21 +38,21 @@ ol, ul {
 
 
 h1 {
-    font-size: 26px;
+    font-size: 36px;
     margin-left: 70px;
     color: darkorange;
 }
 h2 {
-    font-size: 24px;
+    font-size: 34px;
 }
 h3{
-    font-size:18px;
+    font-size:28px;
 }
 h4{
-    font-size:16px;
+    font-size:26px;
 }
 h5{
-    font-size:14px;
+    font-size:24px;
 }
 h2,h3,h4,h5 {
     padding: 10px 30px 10px 30px;
@@ -61,19 +61,19 @@ h2,h3,h4,h5 {
 
 
 p {
-    font-size:16px;
+    font-size:20px;
     padding: 10px 80px 10px 80px;
 }
 
 button {
-    background-color: rgb(255, 102, 0);
+    background-color: orange;
     border: none;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     transition-duration: 0.4s;
     border-radius: 8px;
 }
@@ -90,8 +90,8 @@ button:hover {
     width: 100%;
     margin: 0;
     border-style: solid;
-    border-color: orange;
-    background-color: lightgoldenrodyellow;
+    border-color: greenyellow;
+    background-color: greenyellow;
 }
 
 .center {
